@@ -33,7 +33,7 @@ function calculateTotalPrice(object) {
     return 'Function need one parameter';
   }
   const amount = Object.values(object).reduce((a, b) => a + b, 0);
-  return `Total: €${amount}`;
+  return `Total: €${amount.toFixed(2)}`;
 }
 console.log(calculateTotalPrice(cartForParty));
 
@@ -45,7 +45,7 @@ function test1() {
 
 function test2() {
   console.log('\nTest 2: return correct output when passed cartForParty');
-  const expected = 'Total: €11.7';
+  const expected = 'Total: €11.70';
   const actual = calculateTotalPrice(cartForParty);
   console.assert(actual === expected);
 }

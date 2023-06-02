@@ -17,14 +17,9 @@ it pure. Do the following:
 ------------------------------------------------------------------------------*/
 // ! Function under test
 function addToShoppingCart(listOfItems, item) {
-  if (!listOfItems || !item) {
-    return 'You need to provide two arguments to execute this function.';
-  }
-  const newList = [...listOfItems, item];
-  if (newList.length > 3) {
-    newList.shift();
-  }
-  return newList;
+  return !listOfItems || !item
+    ? 'You need to provide two arguments to execute this function.'
+    : [...listOfItems.slice(-2), item];
 }
 
 // ! Test functions (plain vanilla JavaScript)
