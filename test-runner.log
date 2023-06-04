@@ -864,3 +864,115 @@ ex5-wallet/index.js
 ✖ 5 problems (5 errors, 0 warnings)
 
 
+2023-06-04 02:53:24 info: --------------------------------------
+2023-06-04 02:53:24 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-06-04 02:53:24 info: --------------------------------------
+2023-06-04 02:53:38 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="D:\Documents\GitHub\Homework-class44\test-runner\CustomReporter.js"
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+2023-06-04 02:53:45 error: *** ESLint Report ***
+
+ex5-wallet/index.js
+   80:13  error  'b' is not defined  no-undef
+   89:13  error  'c' is not defined  no-undef
+   98:13  error  'a' is not defined  no-undef
+  107:13  error  'a' is not defined  no-undef
+  116:13  error  'c' is not defined  no-undef
+
+✖ 5 problems (5 errors, 0 warnings)
+
+
+2023-06-04 02:55:34 info: --------------------------------------
+2023-06-04 02:55:34 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-06-04 02:55:34 info: --------------------------------------
+2023-06-04 02:55:46 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="D:\Documents\GitHub\Homework-class44\test-runner\CustomReporter.js"
+2023-06-04 02:55:56 error: *** ESLint Report ***
+
+ex5-wallet/index.js
+   80:13  error  'b' is not defined  no-undef
+   89:13  error  'c' is not defined  no-undef
+   98:13  error  'a' is not defined  no-undef
+  107:13  error  'a' is not defined  no-undef
+  116:13  error  'c' is not defined  no-undef
+
+✖ 5 problems (5 errors, 0 warnings)
+
+
+2023-06-04 03:03:50 info: --------------------------------------
+2023-06-04 03:03:50 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-06-04 03:03:50 info: --------------------------------------
+2023-06-04 03:03:56 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="D:\Documents\GitHub\Homework-class44\test-runner\CustomReporter.js"
+2023-06-04 03:04:00 error: *** ESLint Report ***
+
+ex5-wallet/index.js
+   80:13  error  'b' is not defined  no-undef
+   89:13  error  'c' is not defined  no-undef
+   98:13  error  'a' is not defined  no-undef
+  107:13  error  'a' is not defined  no-undef
+  116:13  error  'c' is not defined  no-undef
+
+✖ 5 problems (5 errors, 0 warnings)
+
+
+2023-06-04 03:12:48 info: --------------------------------------
+2023-06-04 03:12:48 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-06-04 03:12:48 info: --------------------------------------
+2023-06-04 03:12:55 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="D:\Documents\GitHub\Homework-class44\test-runner\CustomReporter.js"
+Debugger attached.
+Debugger attached.
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+2023-06-04 03:13:01 error: *** ESLint Report ***
+
+ex5-wallet/index.js
+   80:13  error  'b' is not defined  no-undef
+   89:13  error  'c' is not defined  no-undef
+   98:13  error  'a' is not defined  no-undef
+  107:13  error  'a' is not defined  no-undef
+  116:13  error  'c' is not defined  no-undef
+
+✖ 5 problems (5 errors, 0 warnings)
+
+
+2023-06-04 03:39:35 info: --------------------------------------
+2023-06-04 03:39:35 info: >>> Running Unit Test `ex5-wallet` <<<
+2023-06-04 03:39:35 info: --------------------------------------
+2023-06-04 03:39:38 info: All unit tests passed.
+2023-06-04 03:39:45 info: All steps were completed successfully
