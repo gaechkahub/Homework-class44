@@ -119,3 +119,8 @@ ex4-diceRace.js
 2023-07-14 06:45:56 info: ----------------------------------------
 2023-07-14 06:45:56 warn: A unit test file was not provided.
 2023-07-14 06:46:03 info: All steps were completed successfully
+2023-07-14 07:21:07 info: --------------------------------------------
+2023-07-14 07:21:07 info: >>> Running Unit Test `ex6-browserDebug` <<<
+2023-07-14 07:21:07 info: --------------------------------------------
+2023-07-14 07:21:07 warn: A unit test file was not provided.
+2023-07-14 07:21:14 info: All steps were completed successfully
