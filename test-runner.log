@@ -92,3 +92,30 @@ ex2-pokemonApp/index.js
 2023-07-14 01:05:21 info: -----------------------------------------
 2023-07-14 01:05:25 info: All unit tests passed.
 2023-07-14 01:05:32 info: All steps were completed successfully
+2023-07-14 02:36:52 info: ----------------------------------------
+2023-07-14 02:36:52 info: >>> Running Unit Test `ex4-diceRace` <<<
+2023-07-14 02:36:52 info: ----------------------------------------
+2023-07-14 02:36:57 info: All unit tests passed.
+2023-07-14 02:37:04 info: All steps were completed successfully
+2023-07-14 02:44:28 info: ----------------------------------------
+2023-07-14 02:44:28 info: >>> Running Unit Test `ex4-diceRace` <<<
+2023-07-14 02:44:28 info: ----------------------------------------
+2023-07-14 02:44:32 info: All unit tests passed.
+2023-07-14 02:44:35 error: *** ESLint Report ***
+
+ex4-diceRace.js
+  43:3  error  'main' is not defined  no-undef
+
+✖ 1 problem (1 error, 0 warnings)
+
+
+2023-07-14 02:45:19 info: ----------------------------------------
+2023-07-14 02:45:19 info: >>> Running Unit Test `ex4-diceRace` <<<
+2023-07-14 02:45:19 info: ----------------------------------------
+2023-07-14 02:45:23 info: All unit tests passed.
+2023-07-14 02:45:30 info: All steps were completed successfully
+2023-07-14 06:45:56 info: ----------------------------------------
+2023-07-14 06:45:56 info: >>> Running Unit Test `ex5-vscDebug` <<<
+2023-07-14 06:45:56 info: ----------------------------------------
+2023-07-14 06:45:56 warn: A unit test file was not provided.
+2023-07-14 06:46:03 info: All steps were completed successfully
