@@ -1,14 +1,20 @@
 body {
+  display: flex;
   font-family: Arial, sans-serif;
-  padding: 20px;
+  padding: 30px;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
   text-align: center;
 }
 
-.select-container {
-  text-align: center;
+button {
+  font-size: 16px;
+  padding: 5px;
+  margin: 20px;
+  cursor: pointer;
 }
 
 #pokemon-select {
@@ -18,10 +24,5 @@ h1 {
 
 #pokemon-image {
   display: flex;
-  margin: 0 auto;
-}
-
-.error-message {
-  color: red;
-  font-weight: bold;
+  margin: 20px auto;
 }
